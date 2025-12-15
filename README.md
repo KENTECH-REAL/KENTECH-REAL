@@ -1,7 +1,9 @@
-<img width="1152" height="896" alt="real_1_가로" src="https://github.com/user-attachments/assets/14c8c63a-314a-4430-9e68-9e7e6523e778" />
-Robust Energy AI Lab**
-Korea Institute of Energy Technology (KENTECH)
-School of Energy Engineering & Institute for Energy AI
-PI: Sumyeong Ahn (sumyeongahn@kentech.ac.kr)​
+<img width="1152" height="896" alt="real_1_가로 (1)" src="https://github.com/user-attachments/assets/e3434b7f-bedd-4fc4-8b54-1014f2323b26" />
 
-We develop robust AI solutions to tackle prediction, optimization, and reliability challenges in energy systems.
+# Robust Energy AI Lab
+
+**Korea Institute of Energy Technology (KENTECH)**  
+School of Energy Engineering & Institute for Energy AI
+
+**Principal Investigator**  
+Sumyeong Ahn (sumyeongahn@kentech.ac.kr)
